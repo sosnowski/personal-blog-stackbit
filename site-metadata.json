@@ -1,0 +1,28 @@
+{
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Damian",
+        "tagline": "Engineering Manager in OLX Group.\r\nAWS Certified Solutions Architect, fascinated with a serverless cloud architecture. JavaScript Trainer, enthusiast and coding geek. Recently in love with Rust lang.",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--4E7R7iOB--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/80206/fe0c4193-e4d2-4ba3-a971-1283eafbf549.jpg",
+        "bg": "dark",
+        "has_nav": true,
+        "has_social": true
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "text": "Made with Stackbit",
+                "url": "https://www.stackbit.com",
+                "new_window": true
+            },
+            {
+                "text": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
