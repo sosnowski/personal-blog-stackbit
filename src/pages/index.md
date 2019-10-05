@@ -5,17 +5,16 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Test
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Engineering Manager in OLX Group.
+      AWS Certified Solutions Architect - Associate, fascinated with a serverless cloud architecture.
+      Professional JavaScript Trainer, teaching teams and individuals across the globe. Has performed multiple lectures and workshops (mostly about JS, TS, Angular1+ and Angular 2+), both commercial and free of charge, in locations like: London, Prague, Kiev, Pune (India), Poznań, Łódź, Wrocław. 
+      Also, has been performing lectures and classes on Adam Mickiewicz University in Poznań.
     actions:
       - label: Contact Me
         url: /contact
